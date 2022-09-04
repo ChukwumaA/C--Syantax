@@ -1,0 +1,15 @@
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringHelperMethods\obj\Debug\net6.0\stringHelperMethods.csproj.AssemblyReference.cache
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringHelperMethods\obj\Debug\net6.0\stringHelperMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringHelperMethods\obj\Debug\net6.0\stringHelperMethods.AssemblyInfoInputs.cache
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringHelperMethods\obj\Debug\net6.0\stringHelperMethods.AssemblyInfo.cs
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringHelperMethods\obj\Debug\net6.0\stringHelperMethods.csproj.CoreCompileInputs.cache
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringHelperMethods\bin\Debug\net6.0\stringHelperMethods.exe
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringHelperMethods\bin\Debug\net6.0\stringHelperMethods.deps.json
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringHelperMethods\bin\Debug\net6.0\stringHelperMethods.runtimeconfig.json
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringHelperMethods\bin\Debug\net6.0\stringHelperMethods.dll
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringHelperMethods\bin\Debug\net6.0\stringHelperMethods.pdb
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringHelperMethods\obj\Debug\net6.0\stringHelperMethods.dll
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringHelperMethods\obj\Debug\net6.0\refint\stringHelperMethods.dll
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringHelperMethods\obj\Debug\net6.0\stringHelperMethods.pdb
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringHelperMethods\obj\Debug\net6.0\stringHelperMethods.genruntimeconfig.cache
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringHelperMethods\obj\Debug\net6.0\ref\stringHelperMethods.dll

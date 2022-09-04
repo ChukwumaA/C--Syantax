@@ -1,0 +1,15 @@
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\mathOperations\bin\Debug\net6.0\mathOperations.exe
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\mathOperations\bin\Debug\net6.0\mathOperations.deps.json
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\mathOperations\bin\Debug\net6.0\mathOperations.runtimeconfig.json
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\mathOperations\bin\Debug\net6.0\mathOperations.dll
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\mathOperations\bin\Debug\net6.0\mathOperations.pdb
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\mathOperations\obj\Debug\net6.0\mathOperations.csproj.AssemblyReference.cache
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\mathOperations\obj\Debug\net6.0\mathOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\mathOperations\obj\Debug\net6.0\mathOperations.AssemblyInfoInputs.cache
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\mathOperations\obj\Debug\net6.0\mathOperations.AssemblyInfo.cs
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\mathOperations\obj\Debug\net6.0\mathOperations.csproj.CoreCompileInputs.cache
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\mathOperations\obj\Debug\net6.0\mathOperations.dll
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\mathOperations\obj\Debug\net6.0\refint\mathOperations.dll
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\mathOperations\obj\Debug\net6.0\mathOperations.pdb
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\mathOperations\obj\Debug\net6.0\mathOperations.genruntimeconfig.cache
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\mathOperations\obj\Debug\net6.0\ref\mathOperations.dll

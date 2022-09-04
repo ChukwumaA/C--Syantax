@@ -1,0 +1,15 @@
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayHelperMethods\bin\Debug\net6.0\arrayHelperMethods.exe
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayHelperMethods\bin\Debug\net6.0\arrayHelperMethods.deps.json
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayHelperMethods\bin\Debug\net6.0\arrayHelperMethods.runtimeconfig.json
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayHelperMethods\bin\Debug\net6.0\arrayHelperMethods.dll
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayHelperMethods\bin\Debug\net6.0\arrayHelperMethods.pdb
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayHelperMethods\obj\Debug\net6.0\arrayHelperMethods.csproj.AssemblyReference.cache
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayHelperMethods\obj\Debug\net6.0\arrayHelperMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayHelperMethods\obj\Debug\net6.0\arrayHelperMethods.AssemblyInfoInputs.cache
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayHelperMethods\obj\Debug\net6.0\arrayHelperMethods.AssemblyInfo.cs
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayHelperMethods\obj\Debug\net6.0\arrayHelperMethods.csproj.CoreCompileInputs.cache
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayHelperMethods\obj\Debug\net6.0\arrayHelperMethods.dll
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayHelperMethods\obj\Debug\net6.0\refint\arrayHelperMethods.dll
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayHelperMethods\obj\Debug\net6.0\arrayHelperMethods.pdb
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayHelperMethods\obj\Debug\net6.0\arrayHelperMethods.genruntimeconfig.cache
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayHelperMethods\obj\Debug\net6.0\ref\arrayHelperMethods.dll

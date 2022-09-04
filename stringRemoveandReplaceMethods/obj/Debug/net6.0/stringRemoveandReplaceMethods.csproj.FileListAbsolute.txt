@@ -1,0 +1,15 @@
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringRemoveandReplaceMethods\bin\Debug\net6.0\stringRemoveandReplaceMethods.exe
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringRemoveandReplaceMethods\bin\Debug\net6.0\stringRemoveandReplaceMethods.deps.json
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringRemoveandReplaceMethods\bin\Debug\net6.0\stringRemoveandReplaceMethods.runtimeconfig.json
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringRemoveandReplaceMethods\bin\Debug\net6.0\stringRemoveandReplaceMethods.dll
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringRemoveandReplaceMethods\bin\Debug\net6.0\stringRemoveandReplaceMethods.pdb
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringRemoveandReplaceMethods\obj\Debug\net6.0\stringRemoveandReplaceMethods.csproj.AssemblyReference.cache
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringRemoveandReplaceMethods\obj\Debug\net6.0\stringRemoveandReplaceMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringRemoveandReplaceMethods\obj\Debug\net6.0\stringRemoveandReplaceMethods.AssemblyInfoInputs.cache
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringRemoveandReplaceMethods\obj\Debug\net6.0\stringRemoveandReplaceMethods.AssemblyInfo.cs
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringRemoveandReplaceMethods\obj\Debug\net6.0\stringRemoveandReplaceMethods.csproj.CoreCompileInputs.cache
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringRemoveandReplaceMethods\obj\Debug\net6.0\stringRemoveandReplaceMethods.dll
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringRemoveandReplaceMethods\obj\Debug\net6.0\refint\stringRemoveandReplaceMethods.dll
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringRemoveandReplaceMethods\obj\Debug\net6.0\stringRemoveandReplaceMethods.pdb
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringRemoveandReplaceMethods\obj\Debug\net6.0\stringRemoveandReplaceMethods.genruntimeconfig.cache
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\stringRemoveandReplaceMethods\obj\Debug\net6.0\ref\stringRemoveandReplaceMethods.dll

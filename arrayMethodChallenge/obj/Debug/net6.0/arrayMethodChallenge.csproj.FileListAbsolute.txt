@@ -1,0 +1,15 @@
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayMethodChallenge\bin\Debug\net6.0\arrayMethodChallenge.exe
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayMethodChallenge\bin\Debug\net6.0\arrayMethodChallenge.deps.json
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayMethodChallenge\bin\Debug\net6.0\arrayMethodChallenge.runtimeconfig.json
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayMethodChallenge\bin\Debug\net6.0\arrayMethodChallenge.dll
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayMethodChallenge\bin\Debug\net6.0\arrayMethodChallenge.pdb
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayMethodChallenge\obj\Debug\net6.0\arrayMethodChallenge.csproj.AssemblyReference.cache
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayMethodChallenge\obj\Debug\net6.0\arrayMethodChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayMethodChallenge\obj\Debug\net6.0\arrayMethodChallenge.AssemblyInfoInputs.cache
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayMethodChallenge\obj\Debug\net6.0\arrayMethodChallenge.AssemblyInfo.cs
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayMethodChallenge\obj\Debug\net6.0\arrayMethodChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayMethodChallenge\obj\Debug\net6.0\arrayMethodChallenge.dll
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayMethodChallenge\obj\Debug\net6.0\refint\arrayMethodChallenge.dll
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayMethodChallenge\obj\Debug\net6.0\arrayMethodChallenge.pdb
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayMethodChallenge\obj\Debug\net6.0\arrayMethodChallenge.genruntimeconfig.cache
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\arrayMethodChallenge\obj\Debug\net6.0\ref\arrayMethodChallenge.dll

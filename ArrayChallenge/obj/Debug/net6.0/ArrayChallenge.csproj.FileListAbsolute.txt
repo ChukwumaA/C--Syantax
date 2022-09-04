@@ -1,0 +1,15 @@
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\ArrayChallenge\bin\Debug\net6.0\ArrayChallenge.exe
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\ArrayChallenge\bin\Debug\net6.0\ArrayChallenge.deps.json
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\ArrayChallenge\bin\Debug\net6.0\ArrayChallenge.runtimeconfig.json
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\ArrayChallenge\bin\Debug\net6.0\ArrayChallenge.dll
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\ArrayChallenge\bin\Debug\net6.0\ArrayChallenge.pdb
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\ArrayChallenge\obj\Debug\net6.0\ArrayChallenge.csproj.AssemblyReference.cache
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\ArrayChallenge\obj\Debug\net6.0\ArrayChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\ArrayChallenge\obj\Debug\net6.0\ArrayChallenge.AssemblyInfoInputs.cache
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\ArrayChallenge\obj\Debug\net6.0\ArrayChallenge.AssemblyInfo.cs
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\ArrayChallenge\obj\Debug\net6.0\ArrayChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\ArrayChallenge\obj\Debug\net6.0\ArrayChallenge.dll
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\ArrayChallenge\obj\Debug\net6.0\refint\ArrayChallenge.dll
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\ArrayChallenge\obj\Debug\net6.0\ArrayChallenge.pdb
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\ArrayChallenge\obj\Debug\net6.0\ArrayChallenge.genruntimeconfig.cache
+C:\Users\Chikosolu Akunyili\Github\Learn-A-Thon\C#\ArrayChallenge\obj\Debug\net6.0\ref\ArrayChallenge.dll
